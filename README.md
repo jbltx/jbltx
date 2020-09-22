@@ -21,6 +21,8 @@ Software developer and digital artist
 #### 🎥 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CG Animation / Layout Demoreel 2014 - Mickael Bonfill](https://www.youtube.com/watch?v=aHCqMuOtY88)
+- [Sam | The Short Animated Movie](https://www.youtube.com/watch?v=fzrfrXhE-w4)
 <!-- YOUTUBE:END -->
 
 ---
