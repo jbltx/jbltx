@@ -4,7 +4,13 @@ Software developer and digital artist
 
 #### Links
 
-[YouTube][youtube]
+[<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
+[<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
+[<img src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>][youtube] 
+[<img src="https://img.shields.io/badge/Codepen%20-%23000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white"/>][youtube] 
+[<img src="https://img.shields.io/badge/Behance%20-%231769FF.svg?&style=for-the-badge&logo=Behance&logoColor=white"/>][youtube] 
+[<img src="https://img.shields.io/badge/Leetcode%20-%23F89F1B.svg?&style=for-the-badge&logo=Leetcode&logoColor=white"/>][youtube] 
+[<img src="https://img.shields.io/badge/Stack Overflow%20-%23FE7A16.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white"/>][youtube] 
 
 ---
 
