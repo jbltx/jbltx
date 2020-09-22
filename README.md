@@ -43,7 +43,7 @@ Software developer and digital artist
 [codepen]: https://codepen.io/jbltx
 [twitter]: https://twitter.com/jbltx
 [linkedin]: https://linkedin.com/in/mickaelbonfill
-[stackoverflow]: https://stackoverflow.com/users/mickaelb91
+[stackoverflow]: https://stackoverflow.com/users/2904349/mickaelb91
 [dribbble]: https://dribbble.com/_mickael_b
 [leetcode]: https://www.leetcode.com/jbltx
 [rss]: https://jbltx.com/posts/index.xml
