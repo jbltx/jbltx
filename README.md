@@ -1,8 +1,8 @@
-### Hi there, I'm Mickael - aka [jbltx][website] :wave:
+### Hi there, I'm Mickael - aka [jbltx][website] 👋
 
 Software developer and digital artist
 
-#### Links
+#### 🔗 Links
 
 [<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
