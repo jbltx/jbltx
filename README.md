@@ -11,6 +11,7 @@ Software developer and digital artist
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [My First Post](https://jbltx.com/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
