@@ -1,16 +1,42 @@
-### Hi there 👋
+### Hi there, I'm Mickael - aka [jbltx][website] :wave:
 
-<!--
-**jbltx/jbltx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer and digital artist
 
-Here are some ideas to get you started:
+#### Links
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[YouTube][youtube]
+
+---
+
+#### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...][blog]
+
+---
+
+#### 🎥 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+---
+
+<details>
+  <summary>:zap: Github Stats</summary>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jbltx&show_icons=true" alt="jbltx" />
+</details>
+
+[youtube]: https://www.youtube.com/c/mickaelbonfill
+[behance]: https://www.behance.net/mickaelbonfill
+[codepen]: https://codepen.io/jbltx
+[twitter]: https://twitter.com/jbltx
+[linkedin]: https://linkedin.com/in/mickaelbonfill
+[stackoverflow]: https://stackoverflow.com/users/mickaelb91
+[dribbble]: https://dribbble.com/_mickael_b
+[leetcode]: https://www.leetcode.com/jbltx
+[rss]: https://jbltx.com/posts/index.xml
+[website]: https://jbltx.com
+[blog]: https://jbltx.com/posts
