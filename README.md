@@ -17,6 +17,7 @@ Software developer and digital artist
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Spray paint objects in Unity](/posts/spray-paint-objects-in-unity/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
