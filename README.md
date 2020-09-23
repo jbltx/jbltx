@@ -17,7 +17,6 @@ Software developer and digital artist
 #### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Post](https://jbltx.com/posts/my-first-post/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...][blog]
@@ -39,12 +38,12 @@ Software developer and digital artist
 </details>
 
 [youtube]: https://www.youtube.com/c/mickaelbonfill
-[behance]: https://www.behance.net/mickaelbonfill
+[behance]: https://www.behance.net/jbltx
 [codepen]: https://codepen.io/jbltx
 [twitter]: https://twitter.com/jbltx
 [linkedin]: https://linkedin.com/in/mickaelbonfill
 [stackoverflow]: https://stackoverflow.com/users/2904349/mickaelb91
-[dribbble]: https://dribbble.com/_mickael_b
+[dribbble]: https://dribbble.com/jbltx
 [leetcode]: https://www.leetcode.com/jbltx
 [rss]: https://jbltx.com/posts/index.xml
 [website]: https://jbltx.com
