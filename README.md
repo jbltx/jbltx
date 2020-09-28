@@ -24,7 +24,7 @@ Software developer and digital artist
 
 ---
 
-#### 🎥 Latest YouTube Videos
+#### 🎥 Latest YouTube Videos ![Custom badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fyoutube-channel-badge.jbltx1.vercel.app%2Fapi%2Fsubscriber)
 
 <!-- YOUTUBE:START -->
 - [CG Animation / Layout Demoreel 2014 - Mickael Bonfill](https://www.youtube.com/watch?v=aHCqMuOtY88)
