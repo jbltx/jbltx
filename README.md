@@ -2,7 +2,11 @@
 
 Software developer and digital artist
 
+<img src="https://github-readme-stats.vercel.app/api?username=jbltx&show_icons=true&theme=tokyonight" alt="jbltx" />
+
 #### 🔗 Links
+
+<p align="center">
 
 [<img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][linkedin]
 [<img src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>][twitter]
@@ -10,7 +14,9 @@ Software developer and digital artist
 [<img src="https://img.shields.io/badge/Codepen%20-%23000000.svg?&style=for-the-badge&logo=Codepen&logoColor=white"/>][codepen] 
 [<img src="https://img.shields.io/badge/Behance%20-%231769FF.svg?&style=for-the-badge&logo=Behance&logoColor=white"/>][behance] 
 [<img src="https://img.shields.io/badge/Leetcode%20-%23F89F1B.svg?&style=for-the-badge&logo=Leetcode&logoColor=white"/>][leetcode] 
-[<img src="https://img.shields.io/badge/Stack Overflow%20-%23FE7A16.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white"/>][stackoverflow] 
+[<img src="https://img.shields.io/badge/Stack Overflow%20-%23FE7A16.svg?&style=for-the-badge&logo=StackOverflow&logoColor=white"/>][stackoverflow]
+
+</p>
 
 ---
 
@@ -31,12 +37,6 @@ Software developer and digital artist
 - [Sam | The Short Animated Movie](https://www.youtube.com/watch?v=fzrfrXhE-w4)
 <!-- YOUTUBE:END -->
 
----
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=jbltx&show_icons=true" alt="jbltx" />
-</details>
 
 [youtube]: https://www.youtube.com/c/mickaelbonfill
 [behance]: https://www.behance.net/jbltx
